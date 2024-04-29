@@ -3,5 +3,5 @@ Homework #5 for UCB Data Bootcamp
 Pymaceuticals, Inc
 
 Homework File Location:
-Starter_Code -> Starter_Code -> pymaceuticals_starter.ipynb
+Starter_Code -> Starter_Code/Pymaceuticals -> pymaceuticals_starter.ipynb
 
